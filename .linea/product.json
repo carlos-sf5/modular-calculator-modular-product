@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "modules": {
+    "github:carlos-sf5/basic-module": "0.1.0",
+    "github:carlos-sf5/capabilities-module": "0.1.0",
+    "github:carlos-sf5/advanced-operations-module": "0.1.0",
+    "github:carlos-sf5/basic-operations-module": "0.1.0"
+  },
+  "models": {
+    "common": "0.1.0",
+    "basic": "0.1.0",
+    "featuremodel": "0.1.0"
+  }
+}

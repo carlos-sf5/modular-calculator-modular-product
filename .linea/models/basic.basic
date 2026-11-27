@@ -1,0 +1,4 @@
+basic "Modular calculator"
+  version "0.1.0"
+  languages en, es, gl
+  package modularcalculator group "es.udc.lbd"

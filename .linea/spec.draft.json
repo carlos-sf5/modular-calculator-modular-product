@@ -1,0 +1,22 @@
+{
+  "spec": {
+    "basicData": {
+      "name": "modular-product",
+      "version": "0.0.0"
+    },
+    "features": [
+      "ModularCalculator",
+      "base",
+      "capabilities",
+      "decimal",
+      "advanced_operations",
+      "divide",
+      "power",
+      "square_root",
+      "basic_operations",
+      "add",
+      "subtract",
+      "multiply"
+    ]
+  }
+}

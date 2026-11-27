@@ -1,0 +1,13 @@
+selection of ModularCalculator {
+  select base
+  select basic_operations
+  select add
+  select subtract
+  select multiply
+  select capabilities
+  select decimal
+  select advanced_operations
+  select divide
+  select power
+  select square_root
+}
